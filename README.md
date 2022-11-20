@@ -10,14 +10,23 @@ A intenção aqui não é a de trazer um torial vasto sobre Markdown, mas tentar
 
 ## Alguns exemplos comparando com o HTML
 
+Vou supor que você já conhece HTML e mostrarei os exemplos apenas em Markdown
+
 Escrevendo títulos em HTML e em Markdown
 
 # Título 1
 ```
 # Título 1
 ``` 
+## Links
 
-<h1> Título 1</h1>
-```html 
-<h1 > Título 1</ h1>
-``` 
+https://github.com.ribafs/markdown
+
+Aqui no Github criar links ainda é mais fácil, basta adicionar o link numa linha única, como acima. Mas em ferramentas como o MkDocs, precisamos usar
+
+[https://github.com.ribafs/markdown](https://github.com.ribafs/markdown)
+
+```html
+[https://github.com.ribafs/markdown](https://github.com.ribafs/markdown)
+```
+
