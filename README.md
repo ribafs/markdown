@@ -39,5 +39,5 @@ https://www.markdownguide.org/tools/mkdocs/
 
 ## Observação
 
-Como criar conteúdo com o markdown é algo bem simples, isso me estimulou a criar diversos repositórios aqui no Github compartilhando conteúdo que eu tinha guardado em meu desktop por algum tempo e continuo fazendo isso.
+Como criar conteúdo com o markdown é algo bem simples, isso me estimulou a criar diversos repositórios aqui no Github compartilhando conteúdo que eu tinha guardado em meu desktop por algum tempo e continuo fazendo isso. Preciso complementar com os excelentes recursos web do Github e tamb
 
