@@ -24,9 +24,20 @@ https://github.com.ribafs/markdown
 
 Aqui no Github criar links ainda é mais fácil, basta adicionar o link numa linha única, como acima. Mas em ferramentas como o MkDocs, precisamos usar
 
-[https://github.com.ribafs/markdown](https://github.com.ribafs/markdown)
-
 ```html
 [https://github.com.ribafs/markdown](https://github.com.ribafs/markdown)
 ```
+## Imagens
+
+![](imagem.png)
+
+## Mais sobre Markdown
+
+https://github.com/ribafs/mkdocs#resumo-do-markdown
+
+https://www.markdownguide.org/tools/mkdocs/
+
+## Observação
+
+Como criar conteúdo com o markdown é algo bem simples, isso me estimulou a criar diversos repositórios aqui no Github compartilhando conteúdo que eu tinha guardado em meu desktop por algum tempo e continuo fazendo isso.
 
